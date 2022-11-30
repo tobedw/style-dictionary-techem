@@ -23,20 +23,6 @@ export const primary = () => html`
 `;
 ```
 
-### Secondary colors
-
-Secondary colors of our brand.
-
-```js story
-export const secondary = () => html`
-  <dockit-css-showcases
-    css-props-prefix="--starter-core-color-secondary"
-    component-class="box"
-    style-key="background-color"
-  ></dockit-css-showcases>
-`;
-```
-
 ### Dark colors
 
 Dark colors we use throughout our applications.

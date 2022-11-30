@@ -5,13 +5,13 @@
       [
         "TOKENS",
         [
-          "color"
+          "__color"
         ]
       ],
       [
         "COMPONENTS",
         [
-          "button"
+          "_button"
         ]
       ],
       [
